@@ -1,0 +1,17 @@
+{
+    "subjects": [
+        {
+            "name": "maths",
+            "remaining_hours": 6.0,
+            "deadline": 3
+        },
+        {
+            "name": "maths",
+            "remaining_hours": 6.0,
+            "deadline": 3
+        }
+    ],
+    "daily_hours": 2.0,
+    "study_mode": "Pomodoro",
+    "current_day": 1
+}

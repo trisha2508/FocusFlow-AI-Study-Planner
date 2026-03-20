@@ -1,0 +1,32 @@
+{
+    "current_day": 4,
+    "subjects": [
+        {
+            "name": "physics",
+            "hours": 2.0,
+            "deadline": 3
+        }
+    ],
+    "analytics": {
+        "total_planned": 7.5,
+        "total_studied": 4.0,
+        "total_missed": 3.5,
+        "study_streak": 3,
+        "days_completed": 3,
+        "daily_planned": [
+            2.0,
+            2.5,
+            3.0
+        ],
+        "daily_studied": [
+            1.0,
+            2.0,
+            1.0
+        ],
+        "daily_missed": [
+            1.0,
+            0.5,
+            2.0
+        ]
+    }
+}
